@@ -26,7 +26,7 @@ experiments as I progress through an AI Engineering course.
 |--------:|-------|:------:|
 | 7 | Prompt Engineering | ✅ Completed |
 | 8 | ReAct — Reasoning + Action | ✅ Completed |
-| 9 | Coming Soon | ⏳ |
+| 9 | Prompt Chaining | ✅ Completed |
 | 10 | Coming Soon | ⏳ |
 
 > I update this repository as I complete each episode and implement the concepts myself.
@@ -83,7 +83,8 @@ ai-engineering-course/
 │
 ├── week2/
 │   ├── episode7/
-│   └── episode8/
+│   ├── episode8/
+│   └── episode9/
 │
 ├── .gitignore
 └── README.md
