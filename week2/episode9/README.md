@@ -5,7 +5,7 @@
 Built a multi-step LLM workflow for matching a candidate's resume
 with a job description using prompt chaining.
 
-## 🧠 What I Learned
+## 🧠 What I Learne
 
 - Prompt chaining
 - Multi-step LLM workflows
